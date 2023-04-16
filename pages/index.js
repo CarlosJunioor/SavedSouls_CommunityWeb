@@ -2,9 +2,9 @@ import Image from "next/image";
 import { Inter } from "next/font/google";
 
 import savedsoulsLogo from "../public/image.png";
-import captain from "../public/captain.png"
+import captain from "../public/captainn.png"
 import scene from "../public/scene1.jpg"
-import officer from "../public/officer.png"
+import officer from "../public/officerr.png"
 
 const inter = Inter({ subsets: ["latin"] });
 
